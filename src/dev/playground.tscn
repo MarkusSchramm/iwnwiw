@@ -5,5 +5,7 @@
 [node name="Playground" type="Node2D" unique_id=1776860725]
 
 [node name="Blockout" type="StaticBody2D" parent="." unique_id=1216122516]
+position = Vector2(12.000001, 34)
+scale = Vector2(25.34953, 18.982445)
 script = ExtResource("1_kns8q")
 metadata/_custom_type_script = "uid://q3d2bh2q4mlk"
