@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://dtbqn6yxss0lb"]
+
+[ext_resource type="Script" uid="uid://q3d2bh2q4mlk" path="res://addons/blockout_2d/blockout.gd" id="1_8co7y"]
+
+[node name="Node2D" type="Node2D" unique_id=1776860725]
+
+[node name="Blockout" type="StaticBody2D" parent="." unique_id=1889405383]
+position = Vector2(306, 368)
+scale = Vector2(7.0800014, 4.000002)
+script = ExtResource("1_8co7y")
+metadata/_custom_type_script = "uid://q3d2bh2q4mlk"
